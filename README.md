@@ -1,3 +1,6 @@
+![Braffolk's GitHub stats](https://github-readme-stats.vercel.app/api?username=braffolk&count_private=true&show_icons=true&theme=cobalt)
+
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -66,6 +69,4 @@ Java                     4 repos             ██░░░░░░░░░�
  Last Updated on 18/08/2022 23:55:17 UTC
 <!--END_SECTION:waka-->
 
-![Braffolk's GitHub stats](https://github-readme-stats.vercel.app/api?username=braffolk&count_private=true&show_icons=true&theme=cobalt)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Braffolk.Braffolk&left_color=gray&right_color=gray)
