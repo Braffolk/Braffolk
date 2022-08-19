@@ -35,7 +35,16 @@
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://svelte.dev/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" height="25" /></a>  
+<a href="https://airflow.apache.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="Airflow" height="25" /></a>  
+<a href="https://spark.apache.org/" target="_blank"><img style="margin: 10px" src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" height="25" /></a>  
+<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://www.r-project.org/Rlogo.png" alt="R" height="25" /></a>  
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Pandas" height="25" /></a>  
+<a href="https://www.ray.io/" target="_blank"><img style="margin: 10px" src="https://github.com/ray-project/ray/raw/master/doc/source/images/ray_header_logo.png" alt="Ray" height="25" /></a>  
+<a href="https://aws.amazon.com/sagemaker/" target="_blank"><img style="margin: 10px" src="https://www.solodev.com/file/e17f3d9f-b23d-11ea-904e-0eb0590535cd/SageMaker%20Icon%202-d5a8af11.jpg" alt="SageMaker" height="25" /></a>
+<a href="https://echarts.apache.org/en/index.html" target="_blank"><img style="margin: 10px" src="https://echarts.apache.org/en/images/logo.png" alt="ECharts" height="25" /></a>
+
+
 </div>  
 
 <br/>  
