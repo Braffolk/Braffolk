@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Svelte 
 
-- ⚡ I wish to one day return to game development.
+- ⚡ I am looking to one day return to game development.
   
 
 <br/>  
