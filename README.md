@@ -1,14 +1,5 @@
 ### <div align="center">I'm Braffolk, a full-stack developer 👨‍💻 Working mainly building data pipelines, visualisations and models since 2020</div>  
   
-
-- 💡 I'm attempting to reproduce smaller SOTA NLP models for Estonian  
-  
-
-- 🌱 I’m currently learning Svelte 
-
-- ⚡ I am looking to one day return to game development.
-  
-
 <br/>  
 
 
