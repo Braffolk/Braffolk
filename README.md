@@ -1,4 +1,4 @@
-### <div align="center">I'm Braffolk, a full-stack developer 👨‍💻 Working mainly building data pipelines, visualisations and models since 2020</div>  
+### <div align="center">I'm Braffolk, a full-stack developer and data scientist 👨‍💻 Working mainly building data pipelines, visualisations and models</div>  
   
 <br/>  
 
