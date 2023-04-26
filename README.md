@@ -1,4 +1,4 @@
-Hi there! I'm a software developer with expertise in data science, web and app development, survey research, and game development. I feel comfortable with many programming languages and tools, such as Python, Kotlin, Javascript, GML, PHP, GDScript, C++, and R.
+Hi there! I'm a software developer with expertise in data science, web and app development, survey research, and game development.
 
 My recent experience includes developing a real-time interactive analytics platform, conducting opinion polling and modeling experiments, creating intuitive visualizations for complex data, and working on web and infrastructure development, building and maintaining data pipelines, and reactive backend development. I'm passionate about game development and enjoy creating engaging, interactive experiences.
 
@@ -27,5 +27,5 @@ My recent experience includes developing a real-time interactive analytics platf
    Python, Kotlin, Javascript
    GML, PHP, GDScript, C++, R
 ```
-<br/>  
 
+### [Full resume](https://braffolk.github.io/cv/)
